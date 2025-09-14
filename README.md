@@ -5,7 +5,7 @@ The program checks whether a conveyor belt with a given number of motors can saf
 
 Below is the flowchart showing the program's process:
 
-![conveour_belt_flowchart.png]conveour_belt_flowchart.png)
+![Flowchart of conveyor belt program](conveour_belt_flowchart.png)
 
 ## Files
 - [ConveyorBelt.c](conveyor_belt_capacity_check_opg.c) – main program code  
